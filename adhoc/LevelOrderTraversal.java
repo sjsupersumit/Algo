@@ -3,6 +3,8 @@ import java.util.LinkedList;
 
 /**
  * Created by sumit.jha on 5/5/16.
+ * 
+ * Prints Level order and zig zag traversal of tree
  */
 public class LevelOrderTraversal {
 
